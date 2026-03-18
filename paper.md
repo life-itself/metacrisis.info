@@ -7,7 +7,7 @@ description:
 
 *This is the third whitepaper in the Second Renaissance series. We deeply appreciate the support and input of Commonweal. Thanks also to members of Life Itself Research for their comments and review on early drafts, and the scholars of the wider sensemaking community whose foundational work on metacrisis informs this synthesis.*
 
-<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-semibold py-4 px-6 transition-all shadow-lg tracking-wide uppercase text-sm no-underline">
+<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-semibold py-4 px-6 mb-8 transition-all shadow-lg tracking-wide uppercase text-sm no-underline">
     Download the Paper (PDF) →
 </a>
 
