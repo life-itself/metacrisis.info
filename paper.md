@@ -11,7 +11,7 @@ description:
     Download the Paper (PDF) →
 </a>
 
-![[/assets/from-polycrisis-to-metacrisis-cover.jpg|600]]
+![[/assets/from-polycrisis-to-metacrisis-cover.jpg|400]]
 
 ## Synopsis
 
@@ -23,8 +23,7 @@ Within a metacrisis frame, the deep stories foundational to our modern worldview
 
 This essay is intended as a bite-sized introduction to the core ideas of polycrisis and metacrisis, and their relationship. We include a brief overview of leading accounts within current social philosophy, while taking responsibility for our particular interpretation (and potential simplification) of the concept. This includes a schematic sketch of metacrisis ‘layers’ which may help readers to make sense of interrelating crisis issues at different depths, and to navigate various existing accounts.
 
-
-![[/assets/from-polycrisis-to-metacrisis-diagram.png|400]]
+![[/assets/from-polycrisis-to-metacrisis-diagram.png|600]]
 
 *Fig 1: A simplified schematic logic of the polycrisis-metacrisis relationship.* 
 
