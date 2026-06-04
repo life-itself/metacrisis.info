@@ -11,7 +11,9 @@ description:
     Download the Paper (PDF) →
 </a>
 
-![[/assets/from-polycrisis-to-metacrisis-cover.jpg|400]]
+[![Watch the video](https://img.youtube.com/vi/Zz6ksQsgTvI/default.jpg)](https://www.youtube.com/watch?v=Zz6ksQsgTvI)
+
+![[/assets/from-polycrisis-to-metacrisis-cover.jpg|300]]
 
 ## Synopsis
 
