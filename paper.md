@@ -11,7 +11,7 @@ description:
     Download the Paper (PDF) →
 </a>
 
-![[/assets/from-polycrisis-to-metacrisis-cover.jpg|400]]
+![[/assets/from-polycrisis-to-metacrisis-cover.jpg|600]]
 
 ## Synopsis
 
