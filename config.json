@@ -16,6 +16,10 @@
     "title": "Metacrisis",
     "links": [
       {
+        "href": "/video",
+        "name": "Video"
+      },
+      {
         "href": "/paper",
         "name": "Paper"
       },
