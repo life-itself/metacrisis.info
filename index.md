@@ -58,9 +58,12 @@ layout: plain
       </p>
     </div>
     <!-- Hero Buttons -->
-    <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+  <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
     <a href="#definition" class="w-full sm:w-auto px-8 py-3 rounded-sm bg-stone-200 text-stone-900 font-bold hover:bg-white hover:scale-105 transition-all duration-300 shadow-lg shadow-white/5">
       Read short introduction
+    </a>
+    <a href="/video" class="w-full sm:w-auto px-8 py-3 rounded-sm bg-amber-600 text-stone-950 font-bold hover:bg-amber-500 hover:scale-105 transition-all duration-300 shadow-lg shadow-amber-500/10">
+      Watch the video
     </a>
     <a href="/paper" class="w-full sm:w-auto px-8 py-3 rounded-sm border border-stone-600 text-stone-300 font-semibold hover:border-amber-500 hover:text-amber-400 transition-colors duration-300 backdrop-blur-sm bg-black/20">
       Read the paper
@@ -120,8 +123,14 @@ layout: plain
         <p>
           At the level of global society, the roots of our illness reach all the way down to our way of seeing the world and ourselves. A growing field of metacrisis thought explores, among other factors, the ways in which particular <strong class="text-white">worldviews</strong> ultimately produce and reinforce global catastrophic risk.
         </p>
-        <div class="not-prose mt-8">
-          <a href="#paper" class="group inline-flex items-center gap-3 text-stone-200 font-sans font-medium hover:text-amber-400 transition-colors">
+        <div class="not-prose mt-8 flex flex-col sm:flex-row gap-4">
+          <a href="/video" class="group inline-flex items-center gap-3 text-stone-100 font-sans font-medium hover:text-amber-400 transition-colors">
+            <span class="w-10 h-10 rounded-full border border-amber-500/40 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg>
+            </span>
+            <span>Watch the 8m overview</span>
+          </a>
+          <a href="/paper" class="group inline-flex items-center gap-3 text-stone-200 font-sans font-medium hover:text-amber-400 transition-colors">
             <span class="w-10 h-10 rounded-full border border-stone-600 flex items-center justify-center group-hover:border-amber-500 group-hover:bg-amber-500/10 transition-all">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
             </span>
@@ -133,7 +142,41 @@ layout: plain
   </div>
 </section>
 
-<!-- III. At a Glance Section (Dark) -->
+<!-- III. Video Overview Section -->
+<section class="py-20 bg-[#11100e] border-t border-stone-800">
+  <div class="max-w-6xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
+    <a href="/video" class="group block relative overflow-hidden rounded-2xl border border-stone-700 bg-black shadow-2xl shadow-black/30">
+      <img src="https://img.youtube.com/vi/Zz6ksQsgTvI/hqdefault.jpg" alt="Metacrisis video overview thumbnail" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+      <div class="absolute inset-0 flex items-center justify-center">
+        <div class="w-20 h-20 rounded-full bg-amber-500/90 text-stone-950 flex items-center justify-center shadow-xl shadow-amber-500/20 transition-transform duration-300 group-hover:scale-110">
+          <svg class="w-8 h-8 ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg>
+        </div>
+      </div>
+      <div class="absolute left-6 bottom-6 right-6">
+        <p class="text-[11px] font-sans font-semibold uppercase tracking-[0.22em] text-amber-400 mb-2">Video Overview</p>
+        <h2 class="text-2xl md:text-3xl text-white">Watch the 8-minute introduction</h2>
+      </div>
+    </a>
+    <div class="space-y-6">
+      <p class="text-[11px] font-sans font-semibold uppercase tracking-[0.22em] text-amber-500">A second way in</p>
+      <h2 class="text-3xl md:text-5xl text-stone-100 leading-tight">Start with the short overview, then go deeper in the paper.</h2>
+      <p class="text-lg md:text-xl leading-relaxed text-stone-400 max-w-2xl">
+        The video gives a concise introduction to polycrisis and metacrisis in about eight minutes. If you want the fuller argument, examples, and conceptual structure, continue into the white paper afterwards.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="/video" class="inline-flex items-center justify-center px-7 py-3 rounded-sm bg-amber-600 text-stone-950 font-bold hover:bg-amber-500 transition-colors">
+          Watch 8m Overview
+        </a>
+        <a href="/paper" class="inline-flex items-center justify-center px-7 py-3 rounded-sm border border-stone-600 text-stone-200 font-semibold hover:border-amber-500 hover:text-amber-400 transition-colors">
+          Read the full paper
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IV. At a Glance Section (Dark) -->
 <section class="py-20 bg-stone-900 border-t border-white/5">
   <div class="max-w-6xl mx-auto px-6">
     <h2 class="text-2xl sm:text-3xl text-white mb-10 text-center md:text-left">
@@ -171,7 +214,7 @@ layout: plain
   </div>
 </section>
 
-<!-- IV. The Roots Section (Light Background) -->
+<!-- V. The Roots Section (Light Background) -->
 <section class="py-24 bg-[#E0D7D2] text-stone-900 relative overflow-hidden">
   <div class="max-w-6xl mx-auto px-6 relative z-10">
     <div class="max-w-3xl mx-auto mb-16 space-y-6 text-lg">
@@ -238,7 +281,7 @@ layout: plain
   </div>
 </section>
 
-<!-- V. Cultural Paradigms Intro (Dark Stone) -->
+<!-- VI. Cultural Paradigms Intro (Dark Stone) -->
 <section class="py-20 bg-stone-900 border-t border-stone-800">
   <div class="text-left max-w-3xl mx-auto px-6 space-y-6 text-xl text-stone-400">
     <span class="text-center font-sans font-semibold tracking-[0.2em] text-amber-500 uppercase block text-lg">The foundations of a civilization</span>
@@ -255,7 +298,7 @@ layout: plain
   </div>
 </section>
 
-<!-- VI. Cultural Paradigm Section (Dark Stone + Texture) -->
+<!-- VII. Cultural Paradigm Section (Dark Stone + Texture) -->
 <section class="py-24 bg-stone-900 border-t border-stone-800">
   <div class="max-w-6xl mx-auto px-6">
     <div class="grid grid-cols-1 lg:grid-cols-4 gap-12 mb-16">
