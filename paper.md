@@ -7,11 +7,14 @@ description:
 
 *This is the third whitepaper in the Second Renaissance series. We deeply appreciate the support and input of Commonweal. Thanks also to members of Life Itself Research for their comments and review on early drafts, and the scholars of the wider sensemaking community whose foundational work on metacrisis informs this synthesis.*
 
-<a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-semibold py-4 px-6 mb-8 transition-all shadow-lg tracking-wide uppercase text-sm no-underline">
-    Download the Paper (PDF) →
-</a>
-
-[![Watch the video](https://img.youtube.com/vi/Zz6ksQsgTvI/default.jpg)](https://www.youtube.com/watch?v=Zz6ksQsgTvI)
+<div class="flex flex-wrap gap-4 mb-8">
+  <a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" class="inline-block bg-amber-700 hover:bg-amber-600 text-stone-100 font-semibold py-4 px-6 transition-all shadow-lg tracking-wide uppercase text-sm no-underline">
+      Download the Paper (PDF) →
+  </a>
+  <a href="#video-introduction" class="inline-block bg-stone-200 hover:bg-stone-300 text-stone-900 font-semibold py-4 px-6 transition-all shadow-lg tracking-wide uppercase text-sm no-underline">
+      Watch 8m Overview
+  </a>
+</div>
 
 ![[/assets/from-polycrisis-to-metacrisis-cover.jpg|300]]
 
